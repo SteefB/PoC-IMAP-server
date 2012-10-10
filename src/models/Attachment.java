@@ -10,7 +10,7 @@ public class Attachment {
 	private String fileType;
 
 	public String getName() {
-		return name;
+		return name;  
 	}
 
 	public void setName(String name) {
